@@ -1,0 +1,15 @@
+﻿  1_laba_4_sem_test.cpp
+C:\Users\ZeFFI\Desktop\программирование\1_laba_4_sem\red_black_tree.cpp(269,2): warning C4101: u: неиспользованная локальная переменная
+C:\Users\ZeFFI\Desktop\программирование\1_laba_4_sem\red_black_tree.cpp(266): message : во время компиляции функции-члена класс шаблон "void Red_Black_Tree<int,std::string>::remove(T1)"
+          with
+          [
+              T1=int
+          ]
+C:\Users\ZeFFI\Desktop\программирование\1_laba_4_sem_test\1_laba_4_sem_test.cpp(32): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Red_Black_Tree<int,std::string>::remove(T1)"
+          with
+          [
+              T1=int
+          ]
+C:\Users\ZeFFI\Desktop\программирование\1_laba_4_sem\red_black_tree.cpp(384): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Red_Black_Tree<int,std::string>"
+     Создается библиотека C:\Users\ZeFFI\Desktop\программирование\1_laba_4_sem\Debug\1_laba_4_sem_test.lib и объект C:\Users\ZeFFI\Desktop\программирование\1_laba_4_sem\Debug\1_laba_4_sem_test.exp
+  1_laba_4_sem_test.vcxproj -> C:\Users\ZeFFI\Desktop\программирование\1_laba_4_sem\Debug\1_laba_4_sem_test.dll
